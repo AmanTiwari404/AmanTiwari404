@@ -65,13 +65,8 @@ Automated price tracking for 500+ products with real-time alerts and UI visualiz
 <p align="center">
   <a href="mailto:amankumartiwari8368@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="43"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aman-kumar-tiwari2003/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="43"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Amantiwari2003/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/LeetCode.svg" width="43"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Amantiwari2003/"><img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/lc1.png" alt="LeetCode" width="43"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/AmanTiwari404"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="43"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-<em><b>I love meeting curious minds</b> — feel free to say hi or collaborate on cool projects 🚀</em>
 
-<div align="center">
-	<p>Visitors Count 🧭</p>
-	<img src="https://profile-counter.glitch.me/A
