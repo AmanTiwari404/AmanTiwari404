@@ -43,18 +43,6 @@
 
 ---
 
-## 📊 Contribution Overview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmanTiwari404/AmanTiwari404/main/assets/contribution.png" width="500" alt="GitHub Contribution Stats"/>
-</p>
-
-<p align="center">
-  <b>🔥 2,385+ total contributions</b> since Jan 2022 · <b>97-week longest streak</b> · Consistent learner & builder 💪
-</p>
-
----
-
 ## 💼 Projects
 
 🔹 [**VIT ClubHub**](https://github.com/AmanTiwari404/Vit-ClubHub) — Event Management System  
