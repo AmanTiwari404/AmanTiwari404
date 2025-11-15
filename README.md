@@ -57,7 +57,9 @@ Developed a production-ready invoicing tool with PDF generation and email featur
 _Next.js · TypeScript · Puppeteer · MongoDB_  
 Automated price tracking for 500+ products with real-time alerts and UI visualization.
 
-
+🔹 [**Netchat**](https://github.com/AmanTiwari404/Netchat)  
+_Java 8+ · Java Networking (Socket, ServerSocket) · Swing GUI_  
+Client–Server Chat Application built using Java Sockets and Swing GUI.
 ---
 
 ## 📫 Contact Me 
