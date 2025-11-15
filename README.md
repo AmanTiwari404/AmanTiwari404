@@ -45,21 +45,22 @@
 
 ## 💼 Projects
 
-🔹 [**VIT ClubHub**](https://github.com/AmanTiwari404/Vit-ClubHub) — Event Management System  
+🔹 **[VIT ClubHub](https://github.com/AmanTiwari404/Vit-ClubHub)** — Event Management System  
 _MERN · JWT · Tailwind · REST API_  
-Built a dual-portal app for 500+ users and 20+ admins with secure routing and modular APIs.  
+Built a dual-portal application for 500+ users and 20+ admins with secure routing and modular APIs.
 
-🔹 [**Invoice Generator Web App**](https://github.com/AmanTiwari404/Invoice-Generator)  
+🔹 **[Invoice Generator Web App](https://github.com/AmanTiwari404/Invoice-Generator)**  
 _React · Spring Boot · MongoDB · Clerk Auth · Cloudinary_  
-Developed a production-ready invoicing tool with PDF generation and email features.  
+Developed a production-ready invoicing tool with PDF generation and automated email features.
 
-🔹 [**E-commerce Price Tracker**](https://github.com/AmanTiwari404/ecommerce-web-scraper)  
-_Next.js · TypeScript · Puppeteer · MongoDB_  
-Automated price tracking for 500+ products with real-time alerts and UI visualization.
-
-🔹 [**Netchat**](https://github.com/AmanTiwari404/Netchat)  
+🔹 **[Netchat](https://github.com/AmanTiwari404/Netchat)**  
 _Java 8+ · Java Networking (Socket, ServerSocket) · Swing GUI_  
-Client–Server Chat Application built using Java Sockets and Swing GUI.
+Client–Server chat application built using Java Sockets with a responsive Swing-based UI.
+
+🔹 **[E-commerce Price Tracker](https://github.com/AmanTiwari404/ecommerce-web-scraper)**  
+_Next.js · TypeScript · Puppeteer · MongoDB_  
+Automated price tracking for 500+ products with real-time alerts and UI-based price visualization.
+
 ---
 
 ## 📫 Contact Me 
