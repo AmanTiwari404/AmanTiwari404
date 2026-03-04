@@ -58,7 +58,7 @@ _Java 8+ · Java Networking (Socket, ServerSocket) · Swing GUI_
 Client–Server chat application built using Java Sockets with a responsive Swing-based UI.
 
 🔹 **[E-commerce Price Tracker](https://github.com/AmanTiwari404/ecommerce-web-scraper)**  
-_Next.js · TypeScript · Puppeteer · MongoDB_  
+_React.js · Resend · Firecrawl API · Supabase_  
 Automated price tracking for 500+ products with real-time alerts and UI-based price visualization.
 
 ---
